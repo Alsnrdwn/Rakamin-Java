@@ -15,5 +15,6 @@ public class Fungsi {
 
         System.out.println("Hasil Tambah : " + hasilTambah);
         System.out.println("Hasil kuadrat : " + hasilKuadrat);
+        System.out.println("Hasil kuadrat : " + hasilKuadrat);
     }
 }
